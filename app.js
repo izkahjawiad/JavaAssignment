@@ -28,6 +28,11 @@ alert(b);
 var b = "Hello... I can run JS through my web browser's console";
 alert(b);
 
+// Q - 6
+
+var a = "Welcome to my Website!";
+alert(a);
+
 
 // CHAPTER 2
 // Q - 1
@@ -83,6 +88,8 @@ document.write("\r\n" +des);
 
 var age = "15";
 alert("I am " +age+ " year old.")
+
+
 
 // Q - 3
 
@@ -198,7 +205,6 @@ feh = (cel * (9/5)) + 32;
 cel1 = (feh1 - 32)*(5/9);
 document.write("Temparature in Fehreheit is: "+feh+"<sup>0</sup>C"+"<br>");
 document.write("Temparature in Celcius is: "+cel1+"<sup>0</sup>F");
-
 
 // Q - 7
 
